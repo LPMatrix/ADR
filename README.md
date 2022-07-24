@@ -33,17 +33,6 @@ Templates:
 * [Decision record template using Planguage](templates/decision-record-template-using-planguage/index.md)  
 * [Decision record template by Paulo Merson](https://github.com/pmerson/ADR-template)
 
-Examples:
-
-* [CSS framework](examples/css-framework/index.md)
-* [Environment variable configuration](examples/environment-variable-configuration/index.md)
-* [Metrics, monitors, alerts](examples/metrics-monitors-alerts/index.md)
-* [Microsoft Azure DevOps](examples/microsoft-azure-devops/index.md)
-* [Monorepo vs multirepo](examples/monorepo-vs-multirepo/index.md)
-* [Programming languages](examples/programming-languages/index.md)
-* [Secrets storage](examples/secrets-storage/index.md)
-* [Timestamp format](examples/timestamp-format/index.md)
-
 
 ## What is an architecture decision record?
 
